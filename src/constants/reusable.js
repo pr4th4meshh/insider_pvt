@@ -5,7 +5,7 @@ export const featuredCards = [
       desc1: "Video in demand",
       desc2: "Watch on insider",
       category: 'Theatre and Arts',
-      img: '../public/assets/f1.jpg',
+      img: ' /assets/f1.jpg',
     },
     {
       id: 2,
@@ -13,7 +13,7 @@ export const featuredCards = [
         desc1: "Video in demand",
         desc2: "Watch on insider",
         category: 'Theatre and Arts',
-        img: '../public/assets/featured1.jpg',
+        img: ' /assets/featured1.jpg',
       },
       {
         id:3,
@@ -21,7 +21,7 @@ export const featuredCards = [
         desc1: "Video in demand",
         desc2: "Watch on insider",
         category: 'Theatre and Arts',
-        img: '../public/assets/featured2.jpg',
+        img: ' /assets/featured2.jpg',
       },
       {
         id:4,
@@ -29,7 +29,7 @@ export const featuredCards = [
         desc1: "Video in demand",
         desc2: "Watch on insider",
         category: 'Theatre and Arts',
-        img: '../public/assets/featured3.jpg',
+        img: ' /assets/featured3.jpg',
       },
       {
         id:5,
@@ -37,7 +37,7 @@ export const featuredCards = [
         desc1: "Video in demand",
         desc2: "Watch on insider",
         category: 'Theatre and Arts',
-        img: '../public/assets/featured4.jpg',
+        img: ' /assets/featured4.jpg',
       },
       {
         id:6,
@@ -45,7 +45,7 @@ export const featuredCards = [
         desc1: "Video in demand",
         desc2: "Watch on insider",
         category: 'Theatre and Arts',
-        img: '../public/assets/f1.jpg',
+        img: ' /assets/f1.jpg',
       },
       {
         id: 7,
@@ -53,7 +53,7 @@ export const featuredCards = [
         desc1: "Video in demand",
         desc2: "Watch on insider",
         category: 'Theatre and Arts',
-        img: '../public/assets/f1.jpg',
+        img: ' /assets/f1.jpg',
       },
   ];
 
@@ -61,42 +61,42 @@ export const genreCards = [
   {
     eventTitle: 'Workshop',
     noOfEvents: 219,
-    image: '../public/assets/genre2.png'
+    image: ' /assets/genre2.png'
   },
   {
     eventTitle: 'Workshop & Fitness',
     noOfEvents: 219,
-    image: '../public/assets/genre2.png'
+    image: ' /assets/genre2.png'
   },
   {
     eventTitle: 'Workshop',
     noOfEvents: 219,
-    image: '../public/assets/genre2.png'
+    image: ' /assets/genre2.png'
   },
   {
     eventTitle: 'Workshop',
     noOfEvents: 219,
-    image: '../public/assets/genre2.png'
+    image: ' /assets/genre2.png'
   },
   {
     eventTitle: 'Workshop',
     noOfEvents: 219,
-    image: '../public/assets/genre2.png'
+    image: ' /assets/genre2.png'
   },
   {
     eventTitle: 'Workshop',
     noOfEvents: 219,
-    image: '../public/assets/genre2.png'
+    image: ' /assets/genre2.png'
   },
   {
     eventTitle: 'Workshop',
     noOfEvents: 219,
-    image: '../public/assets/genre2.png'
+    image: ' /assets/genre2.png'
   },
   {
     eventTitle: 'Workshop',
     noOfEvents: 219,
-    image: '../public/assets/genre2.png'
+    image: ' /assets/genre2.png'
   },
 ]
 
@@ -140,27 +140,27 @@ export const eventsThisWeek = [
 
 export const artistsCards = [
   {
-    img: '../public/assets/four.png',
+    img: ' /assets/four.png',
     name: 'Prathamesh Asolkar',
     events: '18'
   },
   {
-    img: '../public/assets/four.png',
+    img: ' /assets/four.png',
     name: 'Prathamesh Asolkar',
     events: '18'
   },
   {
-    img: '../public/assets/four.png',
+    img: ' /assets/four.png',
     name: 'Prathamesh Asolkar',
     events: '18'
   },
   {
-    img: '../public/assets/four.png',
+    img: ' /assets/four.png',
     name: 'Prathamesh Asolkar',
     events: '18'
   },
   {
-    img: '../public/assets/four.png',
+    img: ' /assets/four.png',
     name: 'Prathamesh Asolkar',
     events: '18'
   },
