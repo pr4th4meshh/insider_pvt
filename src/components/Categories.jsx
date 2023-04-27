@@ -25,19 +25,19 @@ const Categories = () => {
       <div >
       <div className={`${style.sub_div}`}>
   <div className="col cursor-pointer">
-    <img src="../src/assets/wrks.png" alt="Image 1" className={`${style.col__img}`} />
+    <img src="../public/assets/wrks.png" alt="Image 1" className={`${style.col__img}`} />
   </div>
   <div className="col cursor-pointer">
-    <img src="../src/assets/two.png" alt="Image 2" className={`${style.col__img}`}/>
+    <img src="../public/assets/two.png" alt="Image 2" className={`${style.col__img}`}/>
   </div>
   <div className="col cursor-pointer">
-    <img src="../src/assets/three.png" alt="Image 3" className={`${style.col__img}`} />
+    <img src="../public/assets/three.png" alt="Image 3" className={`${style.col__img}`} />
   </div>
   <div className="col cursor-pointer">
-    <img src="../src/assets/four.png" alt="Image 4" className={`${style.col__img}`} />
+    <img src="../public/assets/four.png" alt="Image 4" className={`${style.col__img}`} />
   </div>
   <div className="col cursor-pointer">
-    <img src="../src/assets/five.png" alt="Image 5" className={`${style.col__img}`} />
+    <img src="../public/assets/five.png" alt="Image 5" className={`${style.col__img}`} />
   </div>
 </div>
       </div>

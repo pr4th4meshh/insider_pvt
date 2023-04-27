@@ -13,12 +13,12 @@ const Install = () => {
           <br />
           <br />
         <div className='flex flex-row' >
-        <img src="../src/assets/playstore1.svg" className='mr-4 border border-white rounded-lg transition ease-in-out hover:-translate-y-1 hover:scale-110' alt="" />
-        <img src="../src/assets/playstore2.svg" className='mr-4 border border-white rounded-lg transition ease-in-out hover:-translate-y-1 hover:scale-110' alt="" />
+        <img src="../public/assets/playstore1.svg" className='mr-4 border border-white rounded-lg transition ease-in-out hover:-translate-y-1 hover:scale-110' alt="" />
+        <img src="../public/assets/playstore2.svg" className='mr-4 border border-white rounded-lg transition ease-in-out hover:-translate-y-1 hover:scale-110' alt="" />
         </div>
         </div>
         <div className="flex flex-1 justify-end ">
-          <img src="../src/assets/installhero1.gif" className='w-[320px] h-[320px] xxs:pb-12 lg:pb-0 ' alt="" />
+          <img src="../public/assets/installhero1.gif" className='w-[320px] h-[320px] xxs:pb-12 lg:pb-0 ' alt="" />
         </div>
       </div>
     </div>

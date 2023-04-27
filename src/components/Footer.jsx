@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="  flex xxs:px-[10px] sm:px-[50px] lg:px-[120px]  sm:py-[26px] xxs:py-0 text-[16px] font-light text-gray-300 ">
         <div className="flex flex-1 flex-col xxs:px-[10px] sm:px-[50px] lg:px-[20px] xxs:hidden md:block">
           <img
-            src="../src/assets/logo.png"
+            src="../public/assets/logo.png"
             className="h-[80px] w-[240px]"
             alt=""
           />
@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-1 flex-col xxs:px-[10px] sm:px-[50px] lg:px-[20px] relative top-[80px]  ">
         <img
-            src="../src/assets/logo.png"
+            src="../public/assets/logo.png"
             className="h-[80px] w-[240px] xxs:visible lg:hidden "
             alt=""
           />
