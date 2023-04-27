@@ -30,7 +30,7 @@ const Navbar = () => {
        <nav className={` ${style.nav} fixed z-[999] xxs:hidden md:block `} >
      <div className='flex' >
      <div className=' flex flex-1' >
-        <img src="../src/assets/logo.png" alt="" className=' w-auto h-[60px]' />
+        <Image src="/assets/logo.png" alt="" className=' w-auto h-[60px]' />
        <ul className={`${style.ul}`}>
           <li className='pr-[14px]' ><a href="">Popluar Events</a></li>
           <li className='pr-[14px] '><a href="">Free Events</a></li>
