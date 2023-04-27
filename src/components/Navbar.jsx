@@ -74,7 +74,7 @@ const Navbar = () => {
     <nav className={` ${style.nav} fixed z-[999] xxs:block md:hidden `} >
      <div className='flex px-2'>
      <div className=' flex flex-1' >
-        <img src="../src/assets/logo.png" alt="" className=' w-auto h-[60px]' />
+        <img src="/assets/logo.png" alt="" className=' w-auto h-[60px]' />
        </div>
       <div className='flex flex-1 justify-end' >
        <div className='flex items-center ' >
